@@ -1,5 +1,4 @@
 ![Header](./header.png)
-![](./profileBanner.jpg)
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ylqx4fhoq3te3j5x65w4wnknbi&cover_image=true&theme=compact&show_offline=false&background_color=121212)](https://github.com/kittinan/spotify-github-profile)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamesCicada&show_icons=true&theme=tokyonight&count_private=true)
 [![Discord Presence](https://lanyard.cnrad.dev/api/551893446726778901)](https://discord.com/users/551893446726778901)
