@@ -1,5 +1,5 @@
 ![Header](./header.png)
-![Snake animation](https://github.com/JamesCicada/github-readme/blob/output/github-contribution-snake.svg)
+![Snake animation](https://github.com/JamesCicada/JamesCicada/blob/output/github-contribution-snake.svg)
 [![Discord Presence](https://lanyard.cnrad.dev/api/551893446726778901?animated=true?showDisplayName=true)](https://discord.com/users/551893446726778901)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesCicada&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=520ECD&background=9F52FB00&center=true&vCenter=true&width=435&lines=%E2%88%9EThose+who+know+do+not+speak;%E2%88%9EThose+who+speak+do+not+know;%E2%94%BC+Love%2C+Obsession%2C+Worship+%E2%94%BC)](https://git.io/typing-svg)
