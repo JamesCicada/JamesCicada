@@ -52,6 +52,6 @@
 
 🎯 **Motto:** *"For each problem, there are multiple solutions."*  
 👾 **Fun Fact:** I love working on [cool projects](https://github.com/JamesCicada)!  
-📫 **Connect:** [Twitter](https://twitter.com/yourhandle) | [LinkedIn](https://linkedin.com/in/yourhandle) | [Discord](https://discord.com/users/370995733509177355)
+📫 **Connect:** [Twitter](https://twitter.com/jcthe6th) | [LinkedIn](https://linkedin.com/in/abderrahmane-abourizq-19a404319/) | [Discord](https://discord.com/users/370995733509177355)
 
 ---
