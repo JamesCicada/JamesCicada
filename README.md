@@ -1,57 +1,92 @@
-![Header](./header.png)
+<div align="center">
+
+```
+     ██╗ █████╗ ███╗   ███╗███████╗███████╗
+     ██║██╔══██╗████╗ ████║██╔════╝██╔════╝
+     ██║███████║██╔████╔██║█████╗  ███████╗
+██   ██║██╔══██║██║╚██╔╝██║██╔══╝  ╚════██║
+╚█████╔╝██║  ██║██║ ╚═╝ ██║███████╗███████║
+ ╚════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚══════╝
+           C I C A D A
+```
+
+*`// building things that shouldn't exist`*
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/jcthe6th)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white)](https://discord.com/users/370995733509177355)
+[![Visitors](https://komarev.com/ghpvc/?username=JamesCicada&color=7F77DD&style=flat-square&label=visitors)](https://github.com/JamesCicada)
+
+</div>
+
+---
+
+### `> whoami`
+
+Developer from Morocco 🇲🇦 obsessed with automation, tooling, and solving problems in ways that are probably overkill.  
+I build things from game mod managers to streaming platforms — if it can be shipped, I'll ship it.
+
+> *"For each problem, there are multiple solutions."*
+
+---
+
+### `> stats --all`
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Papyrus&duration=3000&pause=500&color=51138A&center=true&multiline=true&random=false&width=435&height=60&lines=For+each+problem;There+are+multiple+solutions)](https://git.io/typing-svg)
+
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=JamesCicada&theme=tokyonight&background=0E021A&ring=7F77DD&fire=AFA9EC&currStreakLabel=AFA9EC&sideLabels=534AB7&currStreakNum=EEEDFE&dates=534AB7&sideNums=EEEDFE" alt="GitHub Streak" height="160"/>
+</a>
+<img src="https://github-readme-stats.vercel.app/api?username=JamesCicada&include_all_commits=true&count_private=true&show_icons=true&title_color=AFA9EC&icon_color=7F77DD&text_color=B4B2A9&bg_color=0E021A&border_color=3C3489" alt="GitHub Stats" height="160"/>
+
+</div>
 
 ---
 
-### 🔥 Streak Stats & Dynamic Info
+### `> languages --top`
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=JamesCicada&theme=tokyonight&background=90%2C0E021A%2C6B2FEB" alt="GitHub Streak"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://lanyard.cnrad.dev/api/370995733509177355">
-        <img src="https://lanyard.cnrad.dev/api/370995733509177355" alt="Discord Presence"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesCicada&layout=compact&theme=tokyonight" alt="Top Langs"/>
-      </a>
-    </td>
-    <td align="center">
-      <img align="top" src="https://github-readme-stats.vercel.app/api?username=JamesCicada&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="James Cicada's Github Stats"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesCicada&layout=compact&title_color=AFA9EC&text_color=B4B2A9&bg_color=0E021A&border_color=3C3489" alt="Top Languages"/>
+
+</div>
 
 ---
 
-### 🚀 Cool Stuff to Check Out
+### `> ls ./projects`
 
-- **👨‍💻 Current Project:**  
-  ![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=jamescicada&show_icons=true&theme=radical)
+<div align="center">
 
-- **🏆 Achievements:**  
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=JamesCicada&theme=tokyonight&column=4)
+| | Project | Description | Stack |
+|---|---------|-------------|-------|
+| 🧩 | [**SMM Unlocked**](https://github.com/JamesCicada/SatisfactoryModManager-Unlocked) | Satisfactory Mod Manager fork — removes Steam dependency, adds direct EXE launch & custom executable support | `Go` `Svelte` `Wails` |
+| 📺 | [**watch.jcicada.org**](https://watch.jcicada.org) | Self-hosted streaming platform for movies & shows | `self-hosted` `streaming` |
 
-- **👀 Visitor Counter:**  
-  ![Visitor Count](https://komarev.com/ghpvc/?username=JamesCicada&color=blueviolet&style=flat-square)
+</div>
+
+---
+
+### `> achievements --display`
+
+<div align="center">
+
+[![trophy](https://github-trophies.devomb.com/?username=JamesCicada&theme=dracula&column=4&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
-### 💬 About Me
+### `> ./connect.sh`
 
-🎯 **Motto:** *"For each problem, there are multiple solutions."*  
-👾 **Fun Fact:** I love working on [cool projects](https://github.com/JamesCicada)!  
-📫 **Connect:** [Twitter](https://twitter.com/jcthe6th) | [LinkedIn](https://linkedin.com/in/abderrahmane-abourizq-19a404319/) | [Discord](https://discord.com/users/370995733509177355)
+```
+📍 Morocco
+🐦 Twitter   →  https://twitter.com/jcthe6th
+👾 Discord   →  https://discord.com/users/370995733509177355
+```
+
+<div align="center">
 
 ---
+
+*built with too much caffeine and a dangerous amount of curiosity*
+
+</div>
